@@ -27,6 +27,14 @@
 3. `Site ekle` alanına bir domain girin (örn. `instagram.com`).
 4. Listeye eklenen sitelere erişim engellendiğinde kullanıcı `blocked.html` sayfasına yönlendirilir.
 
+## Ekran Görüntüleri
+
+### Popup Arayüzü
+![Site Engelleyici Popup](images/image1.png)
+
+### Engellenmiş Site Ekranı
+![Engellenmiş Site Sayfası](images/image2.png)
+
 ## Dosya yapısı
 
 - `manifest.json` — Uzantı tanımı ve izinler
@@ -81,6 +89,14 @@ Bu proje MIT Lisansı altında yayınlanmıştır. Detaylar için `LICENSE` dosy
 2. Enable or disable the extension by toggling the `Blocking` switch.
 3. Enter a domain in the `Add site` field (e.g., `instagram.com`).
 4. When access to a blocked site is attempted, the user is redirected to `blocked.html`.
+
+## Screenshots
+
+### Popup Interface
+![Site Blocker Popup](images/image1.png)
+
+### Blocked Site Screen
+![Blocked Site Page](images/image2.png)
 
 ## File Structure
 
